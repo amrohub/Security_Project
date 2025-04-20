@@ -89,9 +89,23 @@ function MethodsPage() {
               <span className="method-name">Polyalphabetic (Vigenère) Cipher</span>
             </div>
             </Link>
-
           </div>
         </div>
+
+        <div className="methods-chapter">
+          <h2 className="chapter-title">
+            Chapter 5
+            <span className="new-tag">New</span>
+          </h2>
+          <div className="methods-list">
+            <Link to="/rsa">
+              <div className="method-item">
+                <span className="method-name">RSA Encryption</span>
+              </div>
+            </Link>
+          </div>
+        </div>
+
       </main>
       
       {/* Footer */}
