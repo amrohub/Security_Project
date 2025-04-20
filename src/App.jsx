@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SecurityLandingPage from './components/pages/SecurityLandingPage';
@@ -9,6 +8,7 @@ import RailFenceCipher from './components/methods/RailFenceCipher';
 import PlayfairCipher from './components/methods/PlayfairCipher';
 import RowTranspositionCipher from './components/methods/RowTranspositionCipher';
 import VigenereCipher from './components/methods/VigenereCipher';
+import RSACipher from './components/methods/RsaCipher';
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
         <Route path="/play" element={<PlayfairCipher />} />
         <Route path="/row" element={<RowTranspositionCipher />} />
         <Route path="/poly" element={<VigenereCipher />} />
-
+        <Route path="/rsa" element={<RSACipher />} />
       </Routes>
     </Router>
   );
