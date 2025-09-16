@@ -1,116 +1,64 @@
-# Security Project Sigma
+<img width="750" height="250" alt="github posters" src="https://github.com/user-attachments/assets/4fa1ed4e-2d61-4a1c-aab1-2aab8c3e5d26" />
 
-A mini-project for the **Computer Security** course.
+# 🔐 Security Project Sigma
 
-Live demo: [security-project-sigma.vercel.app](https://security-project-sigma.vercel.app/)
+A simple **Computer Security** mini-project that demonstrates classical encryption & decryption algorithms.
 
----
-
-## Table of Contents
-
-- [Overview](#overview)  
-- [Motivation](#motivation)  
-- [Features](#features)  
-- [Architecture & Technology Stack](#architecture--technology-stack)  
-- [Threat Model & Security Measures](#threat-model--security-measures)  
-- [Usage](#usage)  
-- [Setup & Installation](#setup--installation)  
-- [Testing](#testing)  
-- [Known Issues & Limitations](#known-issues--limitations)  
-- [Future Work](#future-work)  
-- [Team](#team)  
-- [License](#license)
+🌐 Live Demo: [security-project-sigma.vercel.app](https://security-project-sigma.vercel.app/)
 
 ---
 
-## Overview
+## ✨ Features
 
-`Security Project Sigma` is a web-application developed for the Computer Security course. It demonstrates security best practices in web development, including authentication, input validation, secure data handling, and protection from common web vulnerabilities.
+Implemented Ciphers:
 
----
-
-## Motivation
-
-The aim of this project is to:
-
-- Apply theoretical concepts of computer security in a real application.  
-- Demonstrate how to defend against common web-based attacks (e.g. SQL Injection, Cross-Site Scripting, Cross-Site Request Forgery, etc.).  
-- Emphasize correct and secure coding practices.  
+- 🔑 Caesar Cipher  
+- 🔑 Monoalphabetic Cipher  
+- 🔑 Rail-Fence Cipher  
+- 🔑 Playfair Cipher  
+- 🔑 Row-Transposition Cipher  
+- 🔑 Polyalphabetic (Vigenère) Cipher  
+- 🆕 RSA Encryption  
 
 ---
 
-## Features
+## 🛠️ Tech Stack
 
-- User registration & login with secure password hashing.  
-- Role-based access control (e.g., standard user & admin).  
-- Input validation & sanitization for all user inputs.  
-- Protection against common vulnerabilities:  
-  - SQL Injection  
-  - Cross-Site Scripting (XSS)  
-  - Cross-Site Request Forgery (CSRF)  
-  - Broken Authentication  
-- HTTPS / TLS enforcement (if applicable).  
-- Secure session management (e.g., secure cookies, session expiry).  
-- Logging & monitoring of suspicious activities.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,vercel" />
+</p>
+
+- **Frontend:** React + Next.js ⚛️  
+- **Backend / Logic:** JavaScript (Node.js)  
+- **Deployment:** Vercel 🚀  
 
 ---
 
-## Architecture & Technology Stack
+## ▶️ Usage
 
-| Component | Technology / Library / Tool |
-|-----------|-------------------------------|
-| Front-end | *(e.g. React / Vue / plain HTML + JS)* |
-| Back-end | *(e.g. Node.js + Express / Python + Flask / etc.)* |
-| Database | *(e.g. PostgreSQL / MySQL / MongoDB / SQLite)* |
-| Authentication | *(e.g. JWT / OAuth2 / session-based)* |
-| Deployment | Vercel / *(other hosting / cloud provider)* |
-
-Include any other services / tools as used (e.g. for logging, auditing, encryption libraries, etc.).
+1. Open the [Live Demo](https://security-project-sigma.vercel.app/) 🌐  
+2. Select a cipher.  
+3. Enter text and key (if required).  
+4. Encrypt 🔒 or Decrypt 🔓 instantly.  
 
 ---
 
-## Threat Model & Security Measures
+## 📚 About
 
-- **Assets**: user credentials, personal data, session tokens, etc.  
-- **Adversaries**: remote attackers, user with malicious input, insider threats.  
-- **Attack vectors & mitigations**:  
-  | Threat / Attack | Mitigation Implemented |
-  |------------------|-------------------------|
-  | SQL Injection | Parameterized queries / ORM / input sanitization |
-  | XSS | Escape or sanitize user input / Content Security Policy (CSP) |
-  | CSRF | CSRF tokens / SameSite cookies |
-  | Authentication attacks | Strong password policy, hashing (e.g., bcrypt / Argon2), account lockouts / rate limiting |
-  | Sensitive data exposure | HTTPS, encrypt data at rest (if relevant), minimal privilege, secure storage of secrets |
+This project was created as part of the **Computer Security** course to illustrate how classical cryptographic techniques work.  
 
 ---
 
-## Usage
+## 👥 Team
 
-1. Visit the live site / local instance.  
-2. Register a new account.  
-3. Log in.  
-4. Explore different features (e.g. user dashboard, admin panel, etc.).  
-5. Try sending inputs that might be malicious (for testing purposes only) to observe security protection.
+- Student(s) of Computer Security course  
+- University Mini-Project 🎓  
 
 ---
 
-## Setup & Installation
+## 📜 License
 
-**Prerequisites:**
-
-- Node.js (version x.x.x)  
-- npm / yarn  
-- Database server (if applicable)  
-- Any environment variables / secret keys (e.g. for database, JWT secret)
-
-**Steps:**
-
-```bash
-git clone <this-repo-url>
-cd security-project-sigma
-npm install          # or yarn install
-# set up environment variables, e.g.
-#   DATABASE_URL, JWT_SECRET, NODE_ENV=development, etc.
+MIT License © 2025
 
 # optionally initialize database
 npm run migrate      # if migrations used
