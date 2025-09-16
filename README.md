@@ -13,6 +13,7 @@ A simple **Computer Security** mini-project that demonstrates classical encrypti
 🌐 Live Demo: [security-project-sigma.vercel.app](https://security-project-sigma.vercel.app/)
 
 
+
 ## ✨ Features
 
 Implemented Ciphers:
@@ -27,6 +28,7 @@ Implemented Ciphers:
 
 
 
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -38,12 +40,14 @@ Implemented Ciphers:
 
 
 
+
 ## ▶️ Usage
 
 1. Open the [Live Demo](https://security-project-sigma.vercel.app/) 
 2. Select a cipher.  
 3. Enter text and key (if required).  
 4. Encrypt or Decrypt instantly.  
+
 
 
 
@@ -71,6 +75,7 @@ npm install
 
 
 
+
 ### ▶️ Run the Development Server
 
 ```bash
@@ -81,9 +86,11 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🎉
 
 
 
+
 ## 📚 About
 
 This project was created as part of the **Computer Security** course to illustrate how classical cryptographic techniques work.  
+
 
 
 
