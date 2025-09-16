@@ -64,7 +64,7 @@ git clone https://github.com/amrohub/Security_Project.git
 Navigate to the project directory:
 
 ```bash
-cd security-project
+cd Security_Project
 ```
 
 Install dependencies:
