@@ -68,8 +68,6 @@ Install dependencies:
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ---
@@ -78,8 +76,6 @@ yarn install
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Then open [http://localhost:5173](http://localhost:5173) in your browser 🎉
