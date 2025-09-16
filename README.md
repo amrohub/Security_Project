@@ -58,7 +58,7 @@ Implemented Ciphers:
 Clone the repository:
 
 ```bash
-git clone https://github.com/amrohub/security-project.git
+git clone [https://github.com/amrohub/security-project.git](https://github.com/amrohub/Security_Project.git)
 ````
 
 Navigate to the project directory:
