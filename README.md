@@ -48,6 +48,23 @@ Implemented Ciphers:
 
 ---
 
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+- npm or yarn  
+
+---
+
+### 🔧 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/amrohub/security-project.git
+
+---
+
+
 ## 📚 About
 
 This project was created as part of the **Computer Security** course to illustrate how classical cryptographic techniques work.  
@@ -59,8 +76,3 @@ This project was created as part of the **Computer Security** course to illustra
 
 MIT License © 2025
 
-# optionally initialize database
-npm run migrate      # if migrations used
-npm run seed         # if seed data
-
-npm start            # or npm run dev
