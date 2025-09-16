@@ -37,7 +37,7 @@ Implemented Ciphers:
 - **Frontend:** React ⚛️ + Vite ⚡  
 - **Deployment:** Vercel 🚀  
 
-
+---
 
 ## ▶️ Usage
 
