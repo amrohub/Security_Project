@@ -51,6 +51,7 @@ Implemented Ciphers:
 ## 🚀 Getting Started
 
 ### 📦 Prerequisites
+- [Node.js](https://nodejs.org/) (v14 or higher)  
 - npm or yarn  
 
 ---
@@ -60,9 +61,43 @@ Implemented Ciphers:
 Clone the repository:
 
 ```bash
-git clone https://github.com/amrohub/security-project.git
+git clone https://github.com/your-username/security-project-sigma.git
+````
+
+Navigate to the project directory:
+
+```bash
+cd security-project-sigma
+```
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 ---
+
+### ▶️ Run the Development Server
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Then open [http://localhost:5173](http://localhost:5173) in your browser 🎉
+(*Vite runs on port `5173` by default*)
+
+---
+
+### 🌐 Deployment
+
+This project is deployed on [Vercel](https://vercel.com/) 🚀
+
+```
 
 
 ## 📚 About
