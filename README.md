@@ -1,4 +1,11 @@
-<img width="750" height="250" alt="github posters" src="https://github.com/user-attachments/assets/4fa1ed4e-2d61-4a1c-aab1-2aab8c3e5d26" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fa1ed4e-2d61-4a1c-aab1-2aab8c3e5d26" 
+       alt="github posters" 
+       width="750" 
+       height="250" 
+       style="border-radius: 15px;" />
+</p>
+
 
 # Security Project
 
