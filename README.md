@@ -1,6 +1,6 @@
 <img width="750" height="250" alt="github posters" src="https://github.com/user-attachments/assets/4fa1ed4e-2d61-4a1c-aab1-2aab8c3e5d26" />
 
-# 🔐 Security Project Sigma
+# Security Project
 
 A simple **Computer Security** mini-project that demonstrates classical encryption & decryption algorithms.
 
@@ -25,14 +25,13 @@ Implemented Ciphers:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,vercel" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,vite,vercel" />
 </p>
 
-- **Frontend:** React + Next.js ⚛️  
-- **Backend / Logic:** JavaScript (Node.js)  
+- **Frontend:** React ⚛️ + Vite ⚡  
 - **Deployment:** Vercel 🚀  
 
----
+
 
 ## ▶️ Usage
 
@@ -49,12 +48,6 @@ This project was created as part of the **Computer Security** course to illustra
 
 ---
 
-## 👥 Team
-
-- Student(s) of Computer Security course  
-- University Mini-Project 🎓  
-
----
 
 ## 📜 License
 
