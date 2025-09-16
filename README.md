@@ -18,13 +18,13 @@ A simple **Computer Security** mini-project that demonstrates classical encrypti
 
 Implemented Ciphers:
 
-- 🔑 Caesar Cipher  
-- 🔑 Monoalphabetic Cipher  
-- 🔑 Rail-Fence Cipher  
-- 🔑 Playfair Cipher  
-- 🔑 Row-Transposition Cipher  
-- 🔑 Polyalphabetic (Vigenère) Cipher  
-- 🆕 RSA Encryption  
+- Caesar Cipher  
+- Monoalphabetic Cipher  
+- Rail-Fence Cipher  
+- Playfair Cipher  
+- Row-Transposition Cipher  
+- Polyalphabetic (Vigenère) Cipher  
+- RSA Encryption  
 
 ---
 
@@ -41,10 +41,10 @@ Implemented Ciphers:
 
 ## ▶️ Usage
 
-1. Open the [Live Demo](https://security-project-sigma.vercel.app/) 🌐  
+1. Open the [Live Demo](https://security-project-sigma.vercel.app/) 
 2. Select a cipher.  
 3. Enter text and key (if required).  
-4. Encrypt 🔒 or Decrypt 🔓 instantly.  
+4. Encrypt or Decrypt instantly.  
 
 ---
 
