@@ -12,7 +12,6 @@ A simple **Computer Security** mini-project that demonstrates classical encrypti
 
 🌐 Live Demo: [security-project-sigma.vercel.app](https://security-project-sigma.vercel.app/)
 
----
 
 ## ✨ Features
 
@@ -26,7 +25,7 @@ Implemented Ciphers:
 - Polyalphabetic (Vigenère) Cipher  
 - RSA Encryption  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +36,7 @@ Implemented Ciphers:
 - **Frontend:** React ⚛️ + Vite ⚡  
 - **Deployment:** Vercel 🚀  
 
----
+
 
 ## ▶️ Usage
 
@@ -46,7 +45,7 @@ Implemented Ciphers:
 3. Enter text and key (if required).  
 4. Encrypt or Decrypt instantly.  
 
----
+
 
 ## 🚀 Getting Started
 
@@ -70,7 +69,7 @@ Install dependencies:
 npm install
 ```
 
----
+
 
 ### ▶️ Run the Development Server
 
@@ -80,14 +79,12 @@ npm run dev
 
 Then open [http://localhost:5173](http://localhost:5173) in your browser 🎉
 
----
 
 
 ## 📚 About
 
 This project was created as part of the **Computer Security** course to illustrate how classical cryptographic techniques work.  
 
----
 
 
 ## 📜 License
