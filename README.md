@@ -91,10 +91,3 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🎉
 
 This project was created as part of the **Computer Security** course to illustrate how classical cryptographic techniques work.  
 
-
-
-
-## 📜 License
-
-MIT License © 2025
-
